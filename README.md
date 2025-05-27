@@ -56,15 +56,6 @@ pip install googletrans==4.0.0-rc1
 python translator_gui.py
 ```
 
-## Folder Structure
-
-```
-language-translator-app/
-├── translator_gui.py
-├── README.md
-├── dist/
- └── language-translator-app.exe
-```
 
 ## Credits
 
